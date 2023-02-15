@@ -2,7 +2,7 @@
 
 
 - 🔎 Currently looking for my first job in the area
-- 👨‍💻 Learning ES6
+- 👨‍💻 Learning PHP
 - 📫 Contact email: le.calixto@hotmail.com
 
 
