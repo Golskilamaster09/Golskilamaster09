@@ -3,7 +3,7 @@
 
 - 🔎 Currently looking for my first job in the area
 - 👨‍💻 Learning PHP
-- 📫 Contact email: le.calixto@hotmail.com
+- 📫 Contact e-mail: le.calixto@hotmail.com
 
 
 <div style="display: inline_block"><br>
