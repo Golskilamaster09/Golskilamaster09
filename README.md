@@ -1,7 +1,6 @@
 ## <h1> Hi There, i´m Luiz Eduardo 🦎 </h1>
 
 
-- 🔎 Currently looking for a job
 - 👨‍💻 Learning React
 - 📫 Contact e-mail: calixtoluizeduardo@gmail.com
 
