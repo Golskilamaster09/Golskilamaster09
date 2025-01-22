@@ -15,10 +15,10 @@
   
 </div>
 
-## ⭐ GitHub Stats
+## :memo: Meus commits
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
-  
+<div align="left"><img height="150" src="https://github.com/user-attachments/assets/9481a054-10c7-4219-83ac-96d127979fae" alt="commits"> </div>
+
   
 
   
