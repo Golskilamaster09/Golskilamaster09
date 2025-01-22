@@ -3,6 +3,7 @@
 
 
 - 👨‍💻 Learning React
+- 📫 Linkedin: https://www.linkedin.com/in/luiz-eduardo-o-clixto/
 - 📫 Contact e-mail: calixtoluizeduardo@gmail.com
 
 <div style="display: inline_block"><br>
