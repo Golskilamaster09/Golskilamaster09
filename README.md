@@ -1,8 +1,8 @@
 ## <h1> Hi There, i´m Golskilamaster 🦎 </h1>
 
 
-- 🔎 Currently looking for my first job in the area
-- 👨‍💻 Learning PHP
+- 🔎 Currently looking for a job
+- 👨‍💻 Learning React
 - 📫 Contact e-mail: calixtoluizeduardo@gmail.com
 
 
