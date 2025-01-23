@@ -1,9 +1,17 @@
 ## <h1> Hi There, i´m Luiz Eduardo 🦎 </h1>
 
+  <p align="justify">
+   - 👨‍💻 Learning React
+</p>
+ 
+ <p align="justify">
+  - 📫 Linkedin: https://www.linkedin.com/in/luiz-eduardo-o-clixto/
+</p>
 
-- 👨‍💻 Learning React
-- 📫 Linkedin: https://www.linkedin.com/in/luiz-eduardo-o-clixto/
-- 📫 Contact e-mail: calixtoluizeduardo@gmail.com
+ <p align="justify">
+  - 📫 Contact e-mail: calixtoluizeduardo@gmail.com
+</p>
+
 
 ## 🚀 Technologies 
  
