@@ -43,7 +43,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=golskilamaster09&radius=16&theme=merko&area=true&order=5&custom_title=Contribution" height="250" alt="activity-graph graph"  />
 </div>
 
----
+
 
 <!--
  ## 📱 Social-media 
