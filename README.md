@@ -1,12 +1,12 @@
 ## <h1> Hi There, i´m Luiz Eduardo 🦎 </h1>
 
 
-
 - 👨‍💻 Learning React
 - 📫 Linkedin: https://www.linkedin.com/in/luiz-eduardo-o-clixto/
 - 📫 Contact e-mail: calixtoluizeduardo@gmail.com
 
-<h2> 🚀 Technologies </h2>
+## 🚀 Technologies 
+ 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -27,8 +27,7 @@
 
 ---
 
-
-<h2> 🚀 Activity </h2>
+ ## 🚀 Activity 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=golskilamaster09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -38,14 +37,14 @@
 
 ---
 
-<h2> 📱 Social-media </h2>
+ ## 📱 Social-media 
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
+
 
   
 
