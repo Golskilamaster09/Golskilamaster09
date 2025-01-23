@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
+---
 
 
 <h2> 🚀 Activity </h2>
@@ -36,7 +36,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=golskilamaster09&radius=16&theme=merko&area=true&order=5&custom_title=Contribution" height="250" alt="activity-graph graph"  />
 </div>
 
-###
+---
 
 <h2> 📱 Social-media </h2>
 
